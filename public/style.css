@@ -1,0 +1,46 @@
+body{
+    background-color: #393E46;
+    overflow-x: hidden;
+}
+.App{
+    margin-top: 30px;
+    
+  
+}
+.content{
+ 
+
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 1.33333%;
+    justify-content: center;
+
+ margin-top: 60px;
+
+
+}
+
+.emojibox{
+    width:  300px;
+    max-width: 100%;
+   text-align: center;
+
+background-color: rgb(255, 255, 255);
+box-shadow: 10px;
+margin: 20px;
+}
+.text{
+    
+}
+.searchbox{
+    text-align: center;
+   
+    background-color: rgb(255, 255, 255);
+  margin-right: 45%;
+    margin-left: 42%;
+}
+.emoji{
+font-size: 100px;
+  
+}
+    
